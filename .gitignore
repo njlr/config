@@ -1,1 +1,5 @@
 checks/architecture/bin
+
+/buck-out/
+/.buckd/
+.buckconfig.local
